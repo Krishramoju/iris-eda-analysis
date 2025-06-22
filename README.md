@@ -1,6 +1,7 @@
 # Iris Dataset Analysis
 
-[![View Notebook](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/your-username/your-repo/blob/main/iris_eda.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishramoju/iris-eda-analysid/blob/main/iris_eda.ipynb)
+
 
 Complete EDA performed directly on GitHub:
 
